@@ -1,0 +1,14 @@
+.head {
+    padding-bottom: 30px;
+}
+
+.inputGroup {
+    padding-top: 2px;
+    padding-bottom: 0px;
+    border-color: aquamarine;
+    border-style: solid;
+}
+
+.enter {
+    padding-top: 20px;
+}
