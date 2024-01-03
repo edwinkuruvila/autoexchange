@@ -26,6 +26,11 @@ const LoginPage = () => {
         <button className="btn btn-outline btn-accent" type="submit">
           Enter
         </button>
+        <a className={styles.button} href="/users">
+          <button className="btn btn-outline btn-accent">
+            Users Information
+          </button>
+        </a>
       </div>
     </div>
   );
